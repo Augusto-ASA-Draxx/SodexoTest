@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SodexoTest</string>
+    <string name="movieListTitle">Movies List</string>
+    <string name="year_label">Ano:</string>
+    <string name="release_label">Lançamento:</string>
+    <string name="rating_label">Classificação:</string>
+    <string name="name_label">Nome:</string>
+</resources>
